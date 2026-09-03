@@ -36,7 +36,7 @@ This playbook equips **Xino Kai (Head of Investor Relations)** and the capital t
 * **Tier 2 ($20,000)**: *Core Partner* — 80/20 profit split, bi-weekly market briefings, trade journal telemetry.
 * **Tier 3 ($30,000)**: *Advantage Tier* — 80/20 profit split, priority allocation reserves, quarterly rebalancing review.
 * **Tier 4 ($40,000)**: *Select Tier* — 80/20 profit split, custom distribution cadence options.
-* **Tier 5 ($50,000)**: *Premium Partner* — 80/20 profit split
+* **Tier 5 ($50,000)**: *Premium Partner* — 80/20 profit split, Monthly P&L statements, Member Telegram/Discord access
 * **Tier 6 ($100,000+)**: *Anchor VIP* — Enhanced **80% Investor / 20 % VIP	direct priority channel & custom terms
 , direct direct-line access.
 
