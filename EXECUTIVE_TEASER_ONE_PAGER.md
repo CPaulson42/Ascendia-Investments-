@@ -32,9 +32,9 @@
 | **Tier 1 (Community)** | **$10,000** | 80% Investor / 20% GP | Monthly P&L statements, Member Telegram/Discord access |
 | **Tier 2 (Core)** | **$20,000** | 80% Investor / 20% GP | Bi-weekly trade telemetry & market structure reports |
 | **Tier 3 (Advantage)** | **$30,000** | 80% Investor / 20% GP | Priority expansion allocation rights & quarterly reviews |
-| **Tier 4 (Select)** | **$40,000** | 80% Investor / 20% GP | Custom monthly distribution cadence |
-| **Tier 5 (Premium)** | **$50,000** | 80% Investor / 20% GP | **Monthly 1-on-1 Strategy Sync** with CIO Cody Paulson |
-| **Tier 6 (VIP Anchor)** | **$100,000+** | **85% Investor / 15% VIP** | **0% Management Fee**, direct priority channel & custom terms |
+| **Tier 4 (Select)** | **$40,000** | 80% Investor / 20% GP | Custom bimonthly distribution cadence |
+| **Tier 5 (Premium)** | **$50,000** | 80% Investor / 20% GP | 
+| **Tier 6 (VIP Anchor)** | **$100,000+** | **80% Investor / 20 % VIP** |  direct priority channel & custom terms |
 
 ---
 
