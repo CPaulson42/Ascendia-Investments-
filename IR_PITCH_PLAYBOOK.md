@@ -77,7 +77,7 @@ When speaking to any prospective investor or member:
 |---|---|---|
 | **1** | *"Can I start at $10k or $20k and add more later?"* | *"Absolutely. Many partners start with $10k or $20k to experience our execution and monthly distributions firsthand, then scale up to $50k or $100k as capacity allows."* |
 | **2** | *"How does the 2% risk rule protect against crypto crashes?"* | *"Because each trade's maximum stop-out loss is capped at 2% of total equity, even an extreme flash-crash event only impacts a single trade's defined risk. We never hold un-hedged bags into multi-month drawdowns."* |
-| **3** | *"How do payouts work?"* | *"You can choose automatic monthly payouts sent directly to your registered wallet/bank, or enable auto-compounding to maximize exponential growth."* |
+| **3** | *"How do payouts work?"* | *"You can choose automatic bimonthly payouts sent directly to your registered wallet/bank, or enable auto-compounding to maximize exponential growth."* |
 | **4** | *"What are the fees?"* | *"We operate on a transparent 80/20 profit split  with a strict High-Water Mark. If we don't make you money, we earn zero performance fee."* |
 | **5** | *"How fast can I get onboarded?"* | *"Digital agreement execution and deposit processing is completed within 24 hours."* |
 
