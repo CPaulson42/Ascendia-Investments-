@@ -33,7 +33,7 @@
 | **Tier 2 (Core)** | **$20,000** | 80% Investor / 20% GP | Bi-weekly trade telemetry & market structure reports |
 | **Tier 3 (Advantage)** | **$30,000** | 80% Investor / 20% GP | Priority expansion allocation rights & quarterly reviews |
 | **Tier 4 (Select)** | **$40,000** | 80% Investor / 20% GP | Custom bimonthly distribution cadence |
-| **Tier 5 (Premium)** | **$50,000** | 80% Investor / 20% GP | 
+| **Tier 5 (Premium)** | **$50,000** | 80% Investor / 20% GP | Monthly P&L statements, Member Telegram/Discord access |
 | **Tier 6 (VIP Anchor)** | **$100,000+** | **80% Investor / 20 % VIP** |  direct priority channel & custom terms |
 
 ---
