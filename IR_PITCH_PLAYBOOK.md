@@ -111,4 +111,4 @@ When speaking to any prospective investor or member:
 > **Xino Kai**  
 > Head of Investor Relations & Member Success  
 > Ascendia Investments Co  
-> 📞 +1 (212) 890-4500 | 📧 ir@ascendiainvestments.com
+> 📞 +1 (808-319-3299 | 📧 ir@ascendiainvestments.com
