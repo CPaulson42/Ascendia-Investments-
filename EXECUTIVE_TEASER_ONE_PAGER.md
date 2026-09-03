@@ -78,5 +78,5 @@
 
 **Xino Kai** · Head of Investor Relations  
 🏢 Ascendia Investments Co · New York · Global Syndicate  
-📧 [ir@ascendiainvestments.com](mailto:ir@ascendiainvestments.com) · 📞 +1 (212) 890-4500  
+📧 [ir@ascendiainvestments.com](mailto:ir@ascendiainvestments.com) · 📞 +1 (808-319-3299  
 🔒 **Digital Onboarding**: Completed in under 24 hours via digital Syndicate Agreement.
