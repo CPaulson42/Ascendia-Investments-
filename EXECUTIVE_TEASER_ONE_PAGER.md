@@ -70,7 +70,7 @@
 
 * **Cody Paulson (Managing Partner & CIO)**: Head of Trading & Market Strategy. 10+ yrs price action expertise.
 * **Elena Vance, CFA (Partner, Quantitative Intelligence)**: PhD MIT Applied Mathematics. Sourcing telemetry.
-* **Xino Kai (Head of Investor Relations)**: Member Onboarding, Allocations ($10k–$100k), & Monthly Distributions.
+* **Xino Kai (Head of Investor Relations)**: Member Onboarding, Allocations ($10k–$100k), & BiMonthly Distributions.
 
 ---
 
