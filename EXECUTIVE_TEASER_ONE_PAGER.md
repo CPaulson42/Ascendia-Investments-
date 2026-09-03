@@ -47,7 +47,7 @@
 | **Maximum Risk / Trade** | **Strict 2.0% Maximum Equity Risk** (Automated Hard Stops) |
 | **GP Skin in the Game** | **10%+ Direct Partner Cash Allocation** in the same pool |
 | **Fee Structure** | 80/20 Standard (85/15 for $100k VIP) · Strict High-Water Mark |
-| **Distribution Frequency** | **Monthly Distributions** (or Auto-Compound Option) |
+| **Distribution Frequency** | **BiMonthly Distributions** (or Auto-Compound Option) |
 | **Custody & Security** | Institutional Multi-Sig Cold Storage + Exchange Sub-Accounts |
 
 ---
